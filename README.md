@@ -1,4 +1,4 @@
-# KITTI Odometry Evaluation Toolbox
+# KITTI Odometry Evaluation
 [KITTI Odometry benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php) contains 22 stereo sequences, in which 11 sequences are provided with ground truth. 
 
 
