@@ -51,7 +51,6 @@ The basic usage is
 
 # Example
 python eval_odom.py --result result/example_1/
-
 ```
 
 The full usage is
